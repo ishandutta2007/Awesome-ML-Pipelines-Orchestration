@@ -72,7 +72,7 @@ The following hosted and managed enterprise platforms are sorted in descending o
 
 ## 🐙 Open-Source GitHub Projects
 
-The following open-source frameworks are sorted in descending order by **GitHub Star Count**. Every badge links directly to the respective project's stargazer community.
+The following open-source frameworks are sorted in descending order by **GitHub Stars_Count**. Every badge links directly to the respective project's stargazer community.
 
 ### 1. [Apache Airflow](https://github.com/apache/airflow) [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 - 📌 **License**: Apache-2.0
@@ -217,7 +217,7 @@ We love contributions! Follow these steps to submit additions or updates:
 3. 📝 **Add or update entries** in `README.md`:
    - Follow the established formatting (emojis, badges, pricing specifics, and stargazers links).
    - Ensure SaaS entries have exact starting tier pricing and specific free trial terms.
-   - Ensure open-source entries include the shields.io social star badge linking to the `/stargazers` page.
+   - Ensure open-source entries include the shields.io social Stars_Badge linking to the `/stargazers` page.
 4. 📬 **Submit a Pull Request** with a concise description of the tool and why it belongs in this index.
 
 Please ensure all linked projects are active and descriptions remain objective and factual.
